@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Without PCA
 ## Loading the dataset, checking for null values, removing unnecessary columns, removing outliers
 
@@ -22,3 +23,6 @@
   Mean CV Accuracy for linear kernel:  96.04%
 
 ## Visualization of Decision Boundary
+=======
+# 7th-Task
+>>>>>>> ee6b1b5922bfe67324dfbd6746fc91e79e61ad83
